@@ -29,7 +29,7 @@ import {filterImageFromURL, deleteLocalFiles} from './util/util';
 ```
 
 ### Deploying your system
- ElasticBeanstalk URL address: http://image-filter-starter-code-dev2222222222222222222.us-east-1.elasticbeanstalk.com/
+ ElasticBeanstalk URL address: http://image-filter-starter-code-dev2222222222222222222222222.us-east-1.elasticbeanstalk.com/
 Follow the process described in the course to `eb init` a new application and `eb create` a new environment to deploy your image-filter service! Don't forget you can use `eb deploy` to push changes.
 
 ## Stand Out (Optional)
